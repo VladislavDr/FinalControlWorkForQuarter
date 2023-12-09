@@ -95,3 +95,5 @@ sudo apt-get autoremove
     - Объединить все созданные таблицы в одну, сохраняя информацию о
     принадлежности к исходным таблицам.
 
+
+https://github.com/VladislavDr/FinalControlWorkForQuarter/blob/main/PeaopleFrineads.sql
