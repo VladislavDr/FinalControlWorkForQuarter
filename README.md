@@ -23,7 +23,7 @@
 
     
 
-![2023-11-30_22-20-44](https://github.com/VladislavDr/FinalControlWork/assets/124360247/2013701f-e77f-4342-9067-1dd52a6a6746)
+![2023-11-30_22-20-44](https://github.com/VladislavDr/FinalControlWorkQuarter/assets/124360247/2013701f-e77f-4342-9067-1dd52a6a6746)
 
     
 ![2023-11-30_22-21-24](https://github.com/VladislavDr/FinalControlWork/assets/124360247/2c8b48d6-41f7-4b35-b2c6-109cfe83b78c)
