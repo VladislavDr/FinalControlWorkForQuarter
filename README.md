@@ -21,12 +21,8 @@
    
 
 
-    
-
-![2023-11-30_22-20-44](https://github.com/VladislavDr/FinalControlWorkQuarter/assets/124360247/2013701f-e77f-4342-9067-1dd52a6a6746)
-
-    
-![2023-11-30_22-21-24](https://github.com/VladislavDr/FinalControlWork/assets/124360247/2c8b48d6-41f7-4b35-b2c6-109cfe83b78c)
+![2023-11-30_22-21-24](https://github.com/VladislavDr/FinalControlWorkForQuarter/assets/124360247/03f81889-77d2-4978-a5bf-50805340d351)
+![2023-11-30_22-20-44](https://github.com/VladislavDr/FinalControlWorkForQuarter/assets/124360247/5d3e1849-f1cd-4d11-bdcf-3a61fe76c8cf)
 
 
 
